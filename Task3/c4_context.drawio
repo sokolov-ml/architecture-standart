@@ -1,0 +1,211 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="lmB9vZSPwBtps5oNTgar">
+    <mxGraphModel dx="4302" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-10" target="HOb-s-Uc2lKE6jPbz-HI-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="410" />
+              <mxPoint x="-540" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-1" target="HOb-s-Uc2lKE6jPbz-HI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-46" value="СМС-информирование &lt;br&gt;о решении" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOb-s-Uc2lKE6jPbz-HI-38">
+          <mxGeometry x="0.0941" y="2" relative="1" as="geometry">
+            <mxPoint y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#CC0000;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-1" target="HOb-s-Uc2lKE6jPbz-HI-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="490" />
+              <mxPoint x="760" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-45" value="Выгрузка актуальных ставок" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOb-s-Uc2lKE6jPbz-HI-42">
+          <mxGeometry x="-0.9192" y="2" relative="1" as="geometry">
+            <mxPoint x="38" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="АБС" description="Description" id="HOb-s-Uc2lKE6jPbz-HI-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0067BA;fontColor=#FFFFFF;strokeColor=#005DA8;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="460" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Телеком-оператор" description="Description of Software System" id="HOb-s-Uc2lKE6jPbz-HI-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#FFFFFF;strokeColor=#828282;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="540" y="630" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#CC0000,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-4" target="HOb-s-Uc2lKE6jPbz-HI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-43" value="Получение ставок" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOb-s-Uc2lKE6jPbz-HI-41">
+          <mxGeometry x="0.1091" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Система кол-центра" description="Description" id="HOb-s-Uc2lKE6jPbz-HI-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0067BA;fontColor=#FFFFFF;strokeColor=#005DA8;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="800" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-6" target="HOb-s-Uc2lKE6jPbz-HI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="SMS-шлюз телеком-оператора" description="Description" id="HOb-s-Uc2lKE6jPbz-HI-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0067BA;fontColor=#FFFFFF;strokeColor=#005DA8;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="240" y="630" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=light-dark(#CC0000,#D7817E);" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-7" target="HOb-s-Uc2lKE6jPbz-HI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="120" />
+              <mxPoint x="60" y="390" />
+              <mxPoint x="-5" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Сайт" description="Description" id="HOb-s-Uc2lKE6jPbz-HI-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#005DA8;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="60" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=light-dark(#CC0000,#D7817E);" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-8" target="HOb-s-Uc2lKE6jPbz-HI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Интернет-банк" description="Description" id="HOb-s-Uc2lKE6jPbz-HI-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#005DA8;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="200" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="HOb-s-Uc2lKE6jPbz-HI-9">
+          <mxCell style="group;resizable=0;rotatable=0;metaEdit=1;" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="-740" y="290" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Клиент" description="Description" placeholders="1" id="HOb-s-Uc2lKE6jPbz-HI-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=#999999;fontColor=#000000;arcSize=31;metaEdit=1;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-9">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#828282;fillColor=#999999;fontColor=#000000;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-9">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="HOb-s-Uc2lKE6jPbz-HI-12">
+          <mxCell style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="-380" y="510" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Менеджер бэк-офиса" description="Description" placeholders="1" id="HOb-s-Uc2lKE6jPbz-HI-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;arcSize=31;metaEdit=1;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-12">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-12">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="HOb-s-Uc2lKE6jPbz-HI-16">
+          <mxCell style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="-380" y="290" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Менеджер фронт-офиса" description="Description" placeholders="1" id="HOb-s-Uc2lKE6jPbz-HI-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;arcSize=31;metaEdit=1;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-16">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-16">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="HOb-s-Uc2lKE6jPbz-HI-20">
+          <mxCell style="group;resizable=0;rotatable=0;" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="-380" y="740" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Оператор кол-центра" description="Description" placeholders="1" id="HOb-s-Uc2lKE6jPbz-HI-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;arcSize=31;metaEdit=1;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-20">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-20">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="HOb-s-Uc2lKE6jPbz-HI-23">
+          <mxCell style="group;resizable=0;rotatable=0;metaEdit=1;" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="-380" y="960" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Оператор партнёрского кол-центра" description="Description" placeholders="1" id="HOb-s-Uc2lKE6jPbz-HI-24">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=#999999;fontColor=#000000;arcSize=31;metaEdit=1;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-23">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#828282;fillColor=#999999;fontColor=#000000;" vertex="1" parent="HOb-s-Uc2lKE6jPbz-HI-23">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-17" target="HOb-s-Uc2lKE6jPbz-HI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-13" target="HOb-s-Uc2lKE6jPbz-HI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;[Software System&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Система партнерского кол-центра" description="Description of Software System" id="HOb-s-Uc2lKE6jPbz-HI-29">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#FFFFFF;strokeColor=#828282;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="1020" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-24" target="HOb-s-Uc2lKE6jPbz-HI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-21" target="HOb-s-Uc2lKE6jPbz-HI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-10" target="HOb-s-Uc2lKE6jPbz-HI-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="410" />
+              <mxPoint x="-540" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-10" target="HOb-s-Uc2lKE6jPbz-HI-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="410" />
+              <mxPoint x="-540" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-10" target="HOb-s-Uc2lKE6jPbz-HI-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="410" />
+              <mxPoint x="-540" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOb-s-Uc2lKE6jPbz-HI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0E7DAD,#D7817E);strokeWidth=2;" edge="1" parent="1" source="HOb-s-Uc2lKE6jPbz-HI-10" target="HOb-s-Uc2lKE6jPbz-HI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;[Enterprise]&lt;/font&gt;" placeholders="1" name="Банк &quot;Стандарт&quot;" id="HOb-s-Uc2lKE6jPbz-HI-49">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=none;fontColor=#000000;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;dashed=1;strokeWidth=1;perimeterSpacing=0;spacing=4;spacingTop=0;fontSize=10;dashPattern=14 14;rotatable=0;metaEdit=1;allowArrows=0;" vertex="1" parent="1">
+            <mxGeometry x="-460" y="30" width="900" height="920" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="%name%&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;%description%&lt;/span&gt;&lt;/font&gt;" placeholders="1" name="Диаграмма контекста банка &quot;Стандарт&quot;" description="C4-model: Context" id="HOb-s-Uc2lKE6jPbz-HI-51">
+          <mxCell style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontColor=#404040;fontStyle=1;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="-720" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
